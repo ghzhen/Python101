@@ -1,2 +1,3 @@
-# udm_py101
-udemy python 101 course notebook notes
+# python 101
+
+python basics from variant course notes 
